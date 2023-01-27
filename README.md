@@ -28,12 +28,12 @@ Projeto desenvolvido baseado no desafio extra proposto no programa explorer. Uma
 <br>
 
 <p align="center">
-  <img alt="projeto Rocket.sec" src=".github/preview1.png" width="80%">
+  <img alt="projeto Rocket.sec" src=".github/preview.png" width="80%">
 </p>
 
 ## Acesse o projeto!
 
-
+[Rocket.sect](https://eduvieira131.github.io/Rocket.sect-desafio-extra/)
 
 <br>
 
