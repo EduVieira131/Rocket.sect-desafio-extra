@@ -33,7 +33,7 @@ Projeto desenvolvido baseado no desafio extra proposto no programa explorer. Uma
 
 ## Acesse o projeto!
 
-
+[Rocket.sect](https://eduvieira131.github.io/Rocket.sect-desafio-extra/)
 
 <br>
 
